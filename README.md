@@ -1,6 +1,6 @@
 # LalaNote Open Music
 
-3,325 scores of classical music and well-known tunes, as MusicXML (`.mxl`) files. They are the score library of the
+3,334 scores of classical music and well-known tunes, as MusicXML (`.mxl`) files. They are the score library of the
 [LalaNote](https://github.com/mylovejs2/LalaNote) score editor, and anyone may use them.
 
 - `scores/<Composer>/<title>--<id>.mxl` — the scores
@@ -10,7 +10,7 @@
 
 ## Where the scores come from
 
-All but ten of the files come from **PDMX**, a dataset of public-domain MusicXML scores collected from MuseScore.com:
+All but nineteen of the files come from **PDMX**, a dataset of public-domain MusicXML scores collected from MuseScore.com:
 
 > Phillip Long, Zachary Novack, Taylor Berg-Kirkpatrick, Julian McAuley.
 > *PDMX: A Large-Scale Public Domain MusicXML Dataset for Symbolic Music Processing.* 2024.
@@ -21,7 +21,7 @@ in the catalogue are the figures recorded in PDMX; a score without them was not 
 
 ## Scores from other editions
 
-Ten scores (`own: true` in the catalogue, ids beginning with `ln-`) were made for LalaNote. The music of all of them
+Nineteen scores (`own: true` in the catalogue, ids beginning with `ln-`) were made for LalaNote. The music of all of them
 is in the public domain worldwide; the licence is that of the modern edition the file was made from, and each file
 carries it in its MusicXML `<rights>` element.
 
@@ -31,6 +31,7 @@ carries it in its MusicXML `<rights>` element.
 | Pachelbel, *Canon in D* (3 violins and bass, and a reduction for piano) | Typeset by Michael Fischer v. Mollard for the Mutopia Project (Mutopia-2015/09/02-2047). **CC BY 4.0** — <https://creativecommons.org/licenses/by/4.0/>. Changes: converted from LilyPond to MusicXML; for the piano version, violin I and the bass set on two staves. <https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2047> |
 | Mozart, 12 Variations on "Ah, vous dirai-je, Maman", K. 265 — theme and variations I–III | Transcribed by Eric Bréchemier from the autograph and the first edition (Vienna, 1785). **CC0 1.0**. Changes: the "D.C." of each section written out; the unfinished variations IV–XII left out. <https://github.com/eric-brechemier/mozart-kv265> |
 | Twinkle, Twinkle, Little Star (words: Jane Taylor, 1806) · Happy Birthday to You · Ode to Joy (melody) · Joy to the World · Arirang | Public-domain melodies and original words, written out for LalaNote. **CC0 1.0**. No translated words: a translation has a copyright of its own. |
+| Children's songs and folk songs, each a melody with its original words: Mary Had a Little Lamb (Lowell Mason, 1831; words Sarah Josepha Hale, 1830) · London Bridge Is Falling Down · Row, Row, Row Your Boat · Old MacDonald Had a Farm · Yankee Doodle · Hot Cross Buns · Jingle Bells (James Lord Pierpont, 1857) · Oh! Susanna (Stephen Foster, 1848; first verse and chorus) · Frère Jacques (French words) | Public-domain melodies and words, written out for LalaNote. **CC0 1.0**. They were written down from memory of the common versions and may differ from a particular printed one. |
 
 ## How the PDMX scores were chosen
 
@@ -56,7 +57,7 @@ more beats than its time signature allows.
 ## Licence
 
 Each PDMX score carries the mark its uploader gave it, recorded in `catalog.json` as `CC0-1.0` or `Public Domain`.
-The ten other scores are `CC0-1.0`, `Public Domain` or — the two Pachelbel files — `CC-BY-4.0`, which asks that the
+The nineteen other scores are `CC0-1.0`, `Public Domain` or — the two Pachelbel files — `CC-BY-4.0`, which asks that the
 typesetter be named when the file is passed on (see the table above).
 `catalog.json` and this text are released under CC0 1.0. See [LICENSE.md](LICENSE.md).
 

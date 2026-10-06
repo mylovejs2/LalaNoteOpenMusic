@@ -16,14 +16,15 @@ score that should not be here, open an issue: <https://github.com/mylovejs2/Lala
 
 ## Scores from other editions (`own: true` in `catalog.json`)
 
-Ten scores do not come from PDMX; README.md names the edition of each.
+Nineteen scores do not come from PDMX; README.md names the edition of each.
 
 - *Canon in D* by Pachelbel (two files): typeset by Michael Fischer v. Mollard for the Mutopia Project,
   **CC BY 4.0** — <https://creativecommons.org/licenses/by/4.0/>. Converted to MusicXML; the piano version sets
   violin I and the bass on two staves.
 - *Für Elise* (two files): Mutopia Project, typeset by Stelios Samelis, **Public Domain**.
 - Mozart K. 265, theme and variations I–III: transcribed by Eric Bréchemier, **CC0 1.0**.
-- Five short tunes written out for LalaNote: **CC0 1.0**.
+- Fourteen short tunes and songs (public-domain melodies with their original words) written out for LalaNote:
+  **CC0 1.0**.
 
 ## Everything else (`catalog.json`, `README.md`, this file)
 
