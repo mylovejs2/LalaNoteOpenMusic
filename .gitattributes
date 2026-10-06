@@ -1,0 +1,3 @@
+*.mxl binary
+* text=auto eol=lf
+*.mxl -text
