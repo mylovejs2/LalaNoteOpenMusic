@@ -1,6 +1,6 @@
 # LalaNote Open Music
 
-3,339 scores of classical music and well-known tunes, as MusicXML (`.mxl`) files. They are the score library of the
+3,285 scores of classical music and well-known tunes, as MusicXML (`.mxl`) files. They are the score library of the
 [LalaNote](https://github.com/mylovejs2/LalaNote) score editor, and anyone may use them.
 
 - `scores/<Composer>/<title>--<id>.mxl` — the scores
@@ -10,7 +10,7 @@
 
 ## Where the scores come from
 
-All but nineteen of the files come from **PDMX**, a dataset of public-domain MusicXML scores collected from MuseScore.com:
+All but twenty-four of the files come from **PDMX**, a dataset of public-domain MusicXML scores collected from MuseScore.com:
 
 > Phillip Long, Zachary Novack, Taylor Berg-Kirkpatrick, Julian McAuley.
 > *PDMX: A Large-Scale Public Domain MusicXML Dataset for Symbolic Music Processing.* 2024.
@@ -43,7 +43,8 @@ not always right, so only scores that pass all of the following are here:
 3. Nothing in the title or in the file names another arranger, transcriber, editor or translator. The only
    exceptions are arrangers who died long ago themselves, such as Liszt or Busoni.
 4. Nothing in the file claims a copyright.
-5. PDMX does not list it as a duplicate, and it is not marked as unfinished.
+5. PDMX does not list it as a duplicate, it is not marked as unfinished, and no other score here has exactly the
+   same notes (of such re-uploads the one with the most ratings is kept).
 6. LalaNote opens it. A score that users rated (3.5 or higher; the catalogue gives the rating) may have up to one
    bar in ten that holds more beats than its time signature allows; a score nobody rated, one bar in fifty.
 

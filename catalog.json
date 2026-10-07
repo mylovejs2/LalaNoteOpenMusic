@@ -3,7 +3,7 @@
  "version": 1,
  "generated": "2026-10-07",
  "source": "PDMX (https://zenodo.org/records/15571083), filtered, and a few scores from other free editions — see README.md",
- "count": 3339,
+ "count": 3285,
  "scores": [
   {
    "id": "4598366",
@@ -1304,19 +1304,6 @@
    "lyrics": true
   },
   {
-   "id": "162619",
-   "title": "VII Domine Fili Unigenite ALTO",
-   "composer": "Antonio Vivaldi",
-   "file": "scores/Antonio-Vivaldi/VII-Domine-Fili-Unigenite-ALTO--162619.mxl",
-   "staves": 4,
-   "parts": 4,
-   "measures": 85,
-   "pages": 4,
-   "license": "CC0-1.0",
-   "bytes": 18002,
-   "lyrics": true
-  },
-  {
    "id": "162624",
    "title": "VII Domine Fili Unigenite BASS",
    "composer": "Antonio Vivaldi",
@@ -1340,19 +1327,6 @@
    "pages": 4,
    "license": "CC0-1.0",
    "bytes": 17999,
-   "lyrics": true
-  },
-  {
-   "id": "162623",
-   "title": "VII Domine Fili Unigenite TENOR",
-   "composer": "Antonio Vivaldi",
-   "file": "scores/Antonio-Vivaldi/VII-Domine-Fili-Unigenite-TENOR--162623.mxl",
-   "staves": 4,
-   "parts": 4,
-   "measures": 85,
-   "pages": 4,
-   "license": "CC0-1.0",
-   "bytes": 18000,
    "lyrics": true
   },
   {
@@ -5113,18 +5087,6 @@
    "ratings": 4
   },
   {
-   "id": "1414851",
-   "title": "II. Menuet",
-   "composer": "Claude Debussy",
-   "file": "scores/Claude-Debussy/II-Menuet--1414851.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 104,
-   "pages": 10,
-   "license": "CC0-1.0",
-   "bytes": 39704
-  },
-  {
    "id": "1468996",
    "title": "IV. Passepied",
    "composer": "Claude Debussy",
@@ -5715,19 +5677,6 @@
    "pages": 3,
    "license": "Public Domain",
    "bytes": 11958,
-   "lyrics": true
-  },
-  {
-   "id": "38203",
-   "title": "Lasciatemi morire!",
-   "composer": "Claudio Monteverdi",
-   "file": "scores/Claudio-Monteverdi/Lasciatemi-morire--38203.mxl",
-   "staves": 5,
-   "parts": 5,
-   "measures": 34,
-   "pages": 2,
-   "license": "Public Domain",
-   "bytes": 11540,
    "lyrics": true
   },
   {
@@ -7374,20 +7323,6 @@
    "ratings": 9
   },
   {
-   "id": "6113833",
-   "title": "Gnossienne No. 1",
-   "composer": "Erik Satie",
-   "file": "scores/Erik-Satie/Gnossienne-No-1--6113833.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 11,
-   "pages": 2,
-   "license": "CC0-1.0",
-   "bytes": 12200,
-   "rating": 4.22,
-   "ratings": 6
-  },
-  {
    "id": "5997109",
    "title": "Gnossienne No. 1",
    "composer": "Erik Satie",
@@ -7580,30 +7515,6 @@
    "ratings": 13
   },
   {
-   "id": "5538165",
-   "title": "Marian 09.2",
-   "composer": "Erik Satie",
-   "file": "scores/Erik-Satie/Marian-09-2--5538165.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 11,
-   "pages": 2,
-   "license": "CC0-1.0",
-   "bytes": 11975
-  },
-  {
-   "id": "5699895",
-   "title": "MSC-Ejercicio 09.2",
-   "composer": "Erik Satie",
-   "file": "scores/Erik-Satie/MSC-Ejercicio-09-2--5699895.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 11,
-   "pages": 2,
-   "license": "CC0-1.0",
-   "bytes": 11975
-  },
-  {
    "id": "6024781",
    "title": "Peio 09.2",
    "composer": "Erik Satie",
@@ -7616,18 +7527,6 @@
    "bytes": 11977,
    "rating": 4.77,
    "ratings": 36
-  },
-  {
-   "id": "5535090",
-   "title": "Puri 09 2 MSC",
-   "composer": "Erik Satie",
-   "file": "scores/Erik-Satie/Puri-09-2-MSC--5535090.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 11,
-   "pages": 2,
-   "license": "CC0-1.0",
-   "bytes": 11977
   },
   {
    "id": "5324554",
@@ -7704,19 +7603,6 @@
    "pages": 5,
    "license": "Public Domain",
    "bytes": 11503,
-   "lyrics": true
-  },
-  {
-   "id": "5372899",
-   "title": "Auf ihrem Grab",
-   "composer": "Felix Mendelssohn",
-   "file": "scores/Felix-Mendelssohn/Auf-ihrem-Grab--5372899.mxl",
-   "staves": 4,
-   "parts": 4,
-   "measures": 26,
-   "pages": 4,
-   "license": "CC0-1.0",
-   "bytes": 12804,
    "lyrics": true
   },
   {
@@ -12090,20 +11976,6 @@
    "ratings": 16
   },
   {
-   "id": "3560366",
-   "title": "Valse N 17 op. KKIVb11",
-   "composer": "Frédéric Chopin",
-   "file": "scores/Frederic-Chopin/Valse-N-17-op-KKIVb11--3560366.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 57,
-   "pages": 2,
-   "license": "Public Domain",
-   "bytes": 8399,
-   "rating": 4.83,
-   "ratings": 3
-  },
-  {
    "id": "5551642",
    "title": "Waltz A Minor (W/Live Recording) Opus Posth. B. 150 - F.F. Chopin",
    "composer": "Frédéric Chopin",
@@ -14329,18 +14201,6 @@
    "bytes": 8051,
    "rating": 4.71,
    "ratings": 18
-  },
-  {
-   "id": "4838704",
-   "title": "March in the Occasional Oratorio.2voices. BC.48a",
-   "composer": "George Frideric Handel",
-   "file": "scores/George-Frideric-Handel/March-in-the-Occasional-Oratorio-2voices-BC-48a--4838704.mxl",
-   "staves": 2,
-   "parts": 2,
-   "measures": 34,
-   "pages": 2,
-   "license": "Public Domain",
-   "bytes": 5173
   },
   {
    "id": "5036022",
@@ -16742,19 +16602,6 @@
    "lyrics": true
   },
   {
-   "id": "5196003",
-   "title": "Sicut Cervus (in sol maggiore)",
-   "composer": "Giovanni Pierluigi da Palestrina",
-   "file": "scores/Giovanni-Pierluigi-da-Palestrina/Sicut-Cervus-in-sol-maggiore--5196003.mxl",
-   "staves": 4,
-   "parts": 4,
-   "measures": 58,
-   "pages": 5,
-   "license": "CC0-1.0",
-   "bytes": 14250,
-   "lyrics": true
-  },
-  {
    "id": "5266050",
    "title": "Sicut cervus Giovanni Pierluigi da Palestrina",
    "composer": "Giovanni Pierluigi da Palestrina",
@@ -18404,19 +18251,6 @@
    "lyrics": true
   },
   {
-   "id": "2103301",
-   "title": "In these delightful pleasant groves (SATB)",
-   "composer": "Henry Purcell",
-   "file": "scores/Henry-Purcell/In-these-delightful-pleasant-groves-SATB--2103301.mxl",
-   "staves": 4,
-   "parts": 4,
-   "measures": 48,
-   "pages": 4,
-   "license": "Public Domain",
-   "bytes": 14588,
-   "lyrics": true
-  },
-  {
    "id": "5838097",
    "title": "Lord how long Purcell",
    "composer": "Henry Purcell",
@@ -19910,19 +19744,6 @@
    "bytes": 6180
   },
   {
-   "id": "67073",
-   "title": "The One Horse Open Sleigh",
-   "composer": "James Lord Pierpont",
-   "file": "scores/James-Lord-Pierpont/The-One-Horse-Open-Sleigh--67073.mxl",
-   "staves": 6,
-   "parts": 5,
-   "measures": 48,
-   "pages": 5,
-   "license": "Public Domain",
-   "bytes": 15856,
-   "lyrics": true
-  },
-  {
    "id": "5892859",
    "title": "The One Horse Open Sleigh",
    "composer": "James Lord Pierpont",
@@ -21304,18 +21125,6 @@
    "ratings": 8
   },
   {
-   "id": "1538041",
-   "title": "Adagio from BWV 974 - harpsichord sound",
-   "composer": "Johann Sebastian Bach",
-   "file": "scores/Johann-Sebastian-Bach/Adagio-from-BWV-974-harpsichord-sound--1538041.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 41,
-   "pages": 3,
-   "license": "CC0-1.0",
-   "bytes": 14317
-  },
-  {
    "id": "6376401",
    "title": "Air",
    "composer": "Johann Sebastian Bach",
@@ -21456,18 +21265,6 @@
    "pages": 1,
    "license": "CC0-1.0",
    "bytes": 4882
-  },
-  {
-   "id": "130609",
-   "title": "Anh. 116 Menuet",
-   "composer": "Johann Sebastian Bach",
-   "file": "scores/Johann-Sebastian-Bach/Anh-116-Menuet--130609.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 40,
-   "pages": 1,
-   "license": "CC0-1.0",
-   "bytes": 5176
   },
   {
    "id": "1041461",
@@ -22575,19 +22372,6 @@
    "lyrics": true
   },
   {
-   "id": "5247442",
-   "title": "BWV 0445 Brunnquell aller Guter voice piano 1685 1750",
-   "composer": "Johann Sebastian Bach",
-   "file": "scores/Johann-Sebastian-Bach/BWV-0445-Brunnquell-aller-Guter-voice-piano-1685-1750--5247442.mxl",
-   "staves": 3,
-   "parts": 2,
-   "measures": 11,
-   "pages": 2,
-   "license": "CC0-1.0",
-   "bytes": 6493,
-   "lyrics": true
-  },
-  {
    "id": "4885382",
    "title": "BWV 0625 Bach JS Christ lag in Todesbanden Organ",
    "composer": "Johann Sebastian Bach",
@@ -22638,18 +22422,6 @@
    "bytes": 24585
   },
   {
-   "id": "5855079",
-   "title": "BWV 1003",
-   "composer": "Johann Sebastian Bach",
-   "file": "scores/Johann-Sebastian-Bach/BWV-1003--5855079.mxl",
-   "staves": 1,
-   "parts": 1,
-   "measures": 399,
-   "pages": 11,
-   "license": "CC0-1.0",
-   "bytes": 60498
-  },
-  {
    "id": "131129",
    "title": "BWV 1003 Violin Sonata No.2 in A minor",
    "composer": "Johann Sebastian Bach",
@@ -22688,18 +22460,6 @@
    "bytes": 67884,
    "rating": 4.85,
    "ratings": 4
-  },
-  {
-   "id": "1672496",
-   "title": "BWV 1005: Violin Sonata No.3 in C major (Violin sound)",
-   "composer": "Johann Sebastian Bach",
-   "file": "scores/Johann-Sebastian-Bach/BWV-1005-Violin-Sonata-No-3-in-C-major-Violin-sound--1672496.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 528,
-   "pages": 19,
-   "license": "CC0-1.0",
-   "bytes": 67903
   },
   {
    "id": "131133",
@@ -22816,20 +22576,6 @@
    "pages": 22,
    "license": "CC0-1.0",
    "bytes": 71946
-  },
-  {
-   "id": "130676",
-   "title": "BWV 1013 Partita in A minor for solo flute",
-   "composer": "Johann Sebastian Bach",
-   "file": "scores/Johann-Sebastian-Bach/BWV-1013-Partita-in-A-minor-for-solo-flute--130676.mxl",
-   "staves": 1,
-   "parts": 1,
-   "measures": 451,
-   "pages": 13,
-   "license": "CC0-1.0",
-   "bytes": 48060,
-   "rating": 4.82,
-   "ratings": 20
   },
   {
    "id": "1105071",
@@ -23742,18 +23488,6 @@
    "bytes": 18107
   },
   {
-   "id": "1185541",
-   "title": "BWV 777: Invention VI (A = 415 Hz) - Harpsichord sound",
-   "composer": "Johann Sebastian Bach",
-   "file": "scores/Johann-Sebastian-Bach/BWV-777-Invention-VI-A-415-Hz-Harpsichord-sound--1185541.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 124,
-   "pages": 4,
-   "license": "CC0-1.0",
-   "bytes": 18129
-  },
-  {
    "id": "738891",
    "title": "BWV 778: Invention VII (A = 415 Hz)",
    "composer": "Johann Sebastian Bach",
@@ -23764,18 +23498,6 @@
    "pages": 2,
    "license": "CC0-1.0",
    "bytes": 11053
-  },
-  {
-   "id": "1185551",
-   "title": "BWV 778: Invention VII (A = 415 Hz) - Harpsihord sound",
-   "composer": "Johann Sebastian Bach",
-   "file": "scores/Johann-Sebastian-Bach/BWV-778-Invention-VII-A-415-Hz-Harpsihord-sound--1185551.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 23,
-   "pages": 2,
-   "license": "CC0-1.0",
-   "bytes": 11078
   },
   {
    "id": "738896",
@@ -23790,18 +23512,6 @@
    "bytes": 9060
   },
   {
-   "id": "1185556",
-   "title": "BWV 779: Invention VIII (A = 415 Hz) - Harpsichord sound",
-   "composer": "Johann Sebastian Bach",
-   "file": "scores/Johann-Sebastian-Bach/BWV-779-Invention-VIII-A-415-Hz-Harpsichord-sound--1185556.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 34,
-   "pages": 2,
-   "license": "CC0-1.0",
-   "bytes": 9084
-  },
-  {
    "id": "739881",
    "title": "BWV 780: Invention IX (A = 415 Hz)",
    "composer": "Johann Sebastian Bach",
@@ -23812,18 +23522,6 @@
    "pages": 2,
    "license": "CC0-1.0",
    "bytes": 10359
-  },
-  {
-   "id": "1185566",
-   "title": "BWV 780: Invention IX (A = 415 Hz) - Harpsichord sound",
-   "composer": "Johann Sebastian Bach",
-   "file": "scores/Johann-Sebastian-Bach/BWV-780-Invention-IX-A-415-Hz-Harpsichord-sound--1185566.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 34,
-   "pages": 2,
-   "license": "CC0-1.0",
-   "bytes": 10381
   },
   {
    "id": "1185641",
@@ -23848,18 +23546,6 @@
    "pages": 4,
    "license": "CC0-1.0",
    "bytes": 12043
-  },
-  {
-   "id": "1185626",
-   "title": "BWV 783: Invention XII (A = 415 Hz) - Harpsichord sound",
-   "composer": "Johann Sebastian Bach",
-   "file": "scores/Johann-Sebastian-Bach/BWV-783-Invention-XII-A-415-Hz-Harpsichord-sound--1185626.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 21,
-   "pages": 4,
-   "license": "CC0-1.0",
-   "bytes": 12068
   },
   {
    "id": "741611",
@@ -23888,20 +23574,6 @@
    "ratings": 4
   },
   {
-   "id": "743871",
-   "title": "BWV 787: Sinfonia I (A = 415 Hz)",
-   "composer": "Johann Sebastian Bach",
-   "file": "scores/Johann-Sebastian-Bach/BWV-787-Sinfonia-I-A-415-Hz--743871.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 21,
-   "pages": 2,
-   "license": "CC0-1.0",
-   "bytes": 10242,
-   "rating": 4.83,
-   "ratings": 3
-  },
-  {
    "id": "130024",
    "title": "BWV 788 Sinfonia II",
    "composer": "Johann Sebastian Bach",
@@ -23914,30 +23586,6 @@
    "bytes": 14547,
    "rating": 4.88,
    "ratings": 6
-  },
-  {
-   "id": "1209046",
-   "title": "BWV 788: Sinfonia II - Harpsichord sound",
-   "composer": "Johann Sebastian Bach",
-   "file": "scores/Johann-Sebastian-Bach/BWV-788-Sinfonia-II-Harpsichord-sound--1209046.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 32,
-   "pages": 3,
-   "license": "CC0-1.0",
-   "bytes": 14621
-  },
-  {
-   "id": "743876",
-   "title": "BWV 788: Sinfonia II (A = 415 Hz)",
-   "composer": "Johann Sebastian Bach",
-   "file": "scores/Johann-Sebastian-Bach/BWV-788-Sinfonia-II-A-415-Hz--743876.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 32,
-   "pages": 3,
-   "license": "CC0-1.0",
-   "bytes": 14575
   },
   {
    "id": "743886",
@@ -24006,44 +23654,6 @@
    "ratings": 6
   },
   {
-   "id": "1184646",
-   "title": "BWV 806: English Suite I (A = 415 Hz) - Harpsichord sound",
-   "composer": "Johann Sebastian Bach",
-   "file": "scores/Johann-Sebastian-Bach/BWV-806-English-Suite-I-A-415-Hz-Harpsichord-sound--1184646.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 655,
-   "pages": 59,
-   "license": "CC0-1.0",
-   "bytes": 205819
-  },
-  {
-   "id": "130369",
-   "title": "BWV 807 English Suite II Prelude",
-   "composer": "Johann Sebastian Bach",
-   "file": "scores/Johann-Sebastian-Bach/BWV-807-English-Suite-II-Prelude--130369.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 164,
-   "pages": 10,
-   "license": "CC0-1.0",
-   "bytes": 39315,
-   "rating": 4.83,
-   "ratings": 3
-  },
-  {
-   "id": "770546",
-   "title": "BWV 807: English Suite II (A = 415 Hz)",
-   "composer": "Johann Sebastian Bach",
-   "file": "scores/Johann-Sebastian-Bach/BWV-807-English-Suite-II-A-415-Hz--770546.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 761,
-   "pages": 39,
-   "license": "CC0-1.0",
-   "bytes": 143605
-  },
-  {
    "id": "1184651",
    "title": "BWV 807: English Suite II (A = 415 Hz) - Harpsichord sound",
    "composer": "Johann Sebastian Bach",
@@ -24110,18 +23720,6 @@
    "bytes": 143676
   },
   {
-   "id": "1184911",
-   "title": "BWV 809: English Suite IV (A = 415 Hz) - Harpsichord sound",
-   "composer": "Johann Sebastian Bach",
-   "file": "scores/Johann-Sebastian-Bach/BWV-809-English-Suite-IV-A-415-Hz-Harpsichord-sound--1184911.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 513,
-   "pages": 40,
-   "license": "CC0-1.0",
-   "bytes": 143705
-  },
-  {
    "id": "778371",
    "title": "BWV 810: English Suite V (A = 415 Hz)",
    "composer": "Johann Sebastian Bach",
@@ -24134,18 +23732,6 @@
    "bytes": 145699,
    "rating": 4.56,
    "ratings": 4
-  },
-  {
-   "id": "1184916",
-   "title": "BWV 810: English Suite V (A = 415 Hz) - Harpsichord sound",
-   "composer": "Johann Sebastian Bach",
-   "file": "scores/Johann-Sebastian-Bach/BWV-810-English-Suite-V-A-415-Hz-Harpsichord-sound--1184916.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 715,
-   "pages": 37,
-   "license": "CC0-1.0",
-   "bytes": 145723
   },
   {
    "id": "130418",
@@ -24186,18 +23772,6 @@
    "bytes": 209759,
    "rating": 4.66,
    "ratings": 3
-  },
-  {
-   "id": "1184921",
-   "title": "BWV 811: English Suite VI (A = 415 Hz) - Harpsichord sound",
-   "composer": "Johann Sebastian Bach",
-   "file": "scores/Johann-Sebastian-Bach/BWV-811-English-Suite-VI-A-415-Hz-Harpsichord-sound--1184921.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 666,
-   "pages": 57,
-   "license": "CC0-1.0",
-   "bytes": 209784
   },
   {
    "id": "130147",
@@ -24262,18 +23836,6 @@
    "bytes": 74262,
    "rating": 4.85,
    "ratings": 4
-  },
-  {
-   "id": "1185471",
-   "title": "BWV 813 French Suite II (A = 415 Hz) - Harpsichord sound",
-   "composer": "Johann Sebastian Bach",
-   "file": "scores/Johann-Sebastian-Bach/BWV-813-French-Suite-II-A-415-Hz-Harpsichord-sound--1185471.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 454,
-   "pages": 22,
-   "license": "CC0-1.0",
-   "bytes": 74286
   },
   {
    "id": "130148",
@@ -24342,18 +23904,6 @@
    "ratings": 3
   },
   {
-   "id": "1185486",
-   "title": "BWV 814: French Suite III (A = 415 Hz) - Harpsichord sound",
-   "composer": "Johann Sebastian Bach",
-   "file": "scores/Johann-Sebastian-Bach/BWV-814-French-Suite-III-A-415-Hz-Harpsichord-sound--1185486.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 514,
-   "pages": 24,
-   "license": "CC0-1.0",
-   "bytes": 86502
-  },
-  {
    "id": "130183",
    "title": "BWV 815 French Suite IV Alemande",
    "composer": "Johann Sebastian Bach",
@@ -24392,18 +23942,6 @@
    "bytes": 89086,
    "rating": 4.85,
    "ratings": 4
-  },
-  {
-   "id": "1185491",
-   "title": "BWV 815: French Suite IV (A = 415 Hz) - Harpsichord sound",
-   "composer": "Johann Sebastian Bach",
-   "file": "scores/Johann-Sebastian-Bach/BWV-815-French-Suite-IV-A-415-Hz-Harpsichord-sound--1185491.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 407,
-   "pages": 23,
-   "license": "CC0-1.0",
-   "bytes": 89108
   },
   {
    "id": "130208",
@@ -24482,18 +24020,6 @@
    "ratings": 4
   },
   {
-   "id": "1185501",
-   "title": "BWV 817: French Suite VI (A = 415 Hz) - Harpsichord sound",
-   "composer": "Johann Sebastian Bach",
-   "file": "scores/Johann-Sebastian-Bach/BWV-817-French-Suite-VI-A-415-Hz-Harpsichord-sound--1185501.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 491,
-   "pages": 27,
-   "license": "CC0-1.0",
-   "bytes": 94446
-  },
-  {
    "id": "2532196",
    "title": "BWV 825: Partita I (A = 415 Hz) - harpsichord sound",
    "composer": "Johann Sebastian Bach",
@@ -24532,18 +24058,6 @@
    "pages": 38,
    "license": "CC0-1.0",
    "bytes": 138381
-  },
-  {
-   "id": "1188141",
-   "title": "BWV 827: Partita III (A = 415 Hz) - Harpsichord sound",
-   "composer": "Johann Sebastian Bach",
-   "file": "scores/Johann-Sebastian-Bach/BWV-827-Partita-III-A-415-Hz-Harpsichord-sound--1188141.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 570,
-   "pages": 38,
-   "license": "CC0-1.0",
-   "bytes": 138406
   },
   {
    "id": "130615",
@@ -24608,20 +24122,6 @@
    "pages": 53,
    "license": "CC0-1.0",
    "bytes": 205784
-  },
-  {
-   "id": "1160736",
-   "title": "BWV 846 The Well-tempered Clavier I - I (A = 415 hz) - Harpsichord sound",
-   "composer": "Johann Sebastian Bach",
-   "file": "scores/Johann-Sebastian-Bach/BWV-846-The-Well-tempered-Clavier-I-I-A-415-hz-Harpsichord-s--1160736.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 63,
-   "pages": 6,
-   "license": "CC0-1.0",
-   "bytes": 20843,
-   "rating": 4.66,
-   "ratings": 3
   },
   {
    "id": "714811",
@@ -24926,18 +24426,6 @@
    "ratings": 3
   },
   {
-   "id": "1198106",
-   "title": "BWV 883: The Well-tempered Clavier Book II - XIV (A = 415 Hz) - Harpsichord sound",
-   "composer": "Johann Sebastian Bach",
-   "file": "scores/Johann-Sebastian-Bach/BWV-883-The-Well-tempered-Clavier-Book-II-XIV-A-415-Hz-Harps--1198106.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 113,
-   "pages": 9,
-   "license": "CC0-1.0",
-   "bytes": 38946
-  },
-  {
    "id": "131082",
    "title": "BWV 886 The Well-Tempered Clavier Part II Praeludium XVII",
    "composer": "Johann Sebastian Bach",
@@ -24996,18 +24484,6 @@
    "pages": 14,
    "license": "CC0-1.0",
    "bytes": 64272
-  },
-  {
-   "id": "1206951",
-   "title": "BWV 890: The Well-tempered Clavier Book II - XXI (A = 415 Hz) - Harpsichord sound",
-   "composer": "Johann Sebastian Bach",
-   "file": "scores/Johann-Sebastian-Bach/BWV-890-The-Well-tempered-Clavier-Book-II-XXI-A-415-Hz-Harps--1206951.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 268,
-   "pages": 14,
-   "license": "CC0-1.0",
-   "bytes": 64295
   },
   {
    "id": "804366",
@@ -25314,20 +24790,6 @@
    "bytes": 50906,
    "rating": 4.57,
    "ratings": 11
-  },
-  {
-   "id": "1623981",
-   "title": "BWV 998: Prelude Fugue and Allegro in E-flat Major (Lute Sound)",
-   "composer": "Johann Sebastian Bach",
-   "file": "scores/Johann-Sebastian-Bach/BWV-998-Prelude-Fugue-and-Allegro-in-E-flat-Major-Lute-Sound--1623981.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 343,
-   "pages": 15,
-   "license": "CC0-1.0",
-   "bytes": 50947,
-   "rating": 4.66,
-   "ratings": 3
   },
   {
    "id": "1623941",
@@ -28126,18 +27588,6 @@
    "bytes": 3029
   },
   {
-   "id": "5896054",
-   "title": "Minuet in G",
-   "composer": "Johann Sebastian Bach",
-   "file": "scores/Johann-Sebastian-Bach/Minuet-in-G--5896054.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 16,
-   "pages": 1,
-   "license": "CC0-1.0",
-   "bytes": 3573
-  },
-  {
    "id": "1674431",
    "title": "Minuet in G major",
    "composer": "Johann Sebastian Bach",
@@ -29656,19 +29106,6 @@
    "bytes": 88127,
    "rating": 4.85,
    "ratings": 4,
-   "lyrics": true
-  },
-  {
-   "id": "1981496",
-   "title": "Geistliches Lied Op. 30 Brahms - Alti",
-   "composer": "Johannes Brahms",
-   "file": "scores/Johannes-Brahms/Geistliches-Lied-Op-30-Brahms-Alti--1981496.mxl",
-   "staves": 5,
-   "parts": 5,
-   "measures": 60,
-   "pages": 8,
-   "license": "CC0-1.0",
-   "bytes": 19807,
    "lyrics": true
   },
   {
@@ -31390,18 +30827,6 @@
    "lyrics": true
   },
   {
-   "id": "5133093",
-   "title": "Joseph Haydn - Allegro Scherzando",
-   "composer": "Joseph Haydn",
-   "file": "scores/Joseph-Haydn/Joseph-Haydn-Allegro-Scherzando--5133093.mxl",
-   "staves": 2,
-   "parts": 2,
-   "measures": 46,
-   "pages": 2,
-   "license": "Public Domain",
-   "bytes": 6488
-  },
-  {
    "id": "5108289",
    "title": "Joseph Haydn - Deutcher Tanz",
    "composer": "Joseph Haydn",
@@ -31436,18 +30861,6 @@
    "pages": 1,
    "license": "Public Domain",
    "bytes": 3346
-  },
-  {
-   "id": "120966",
-   "title": "Joseph Haydn - String quartet - Op. 76 no.5 in D major - Movement I",
-   "composer": "Joseph Haydn",
-   "file": "scores/Joseph-Haydn/Joseph-Haydn-String-quartet-Op-76-no-5-in-D-major-Movement-I--120966.mxl",
-   "staves": 4,
-   "parts": 4,
-   "measures": 128,
-   "pages": 14,
-   "license": "CC0-1.0",
-   "bytes": 40742
   },
   {
    "id": "86443",
@@ -32788,20 +32201,6 @@
    "bytes": 22295,
    "rating": 4.85,
    "ratings": 4
-  },
-  {
-   "id": "5883105",
-   "title": "Air from 'little Russia'",
-   "composer": "Ludwig van Beethoven",
-   "file": "scores/Ludwig-van-Beethoven/Air-from-little-Russia--5883105.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 16,
-   "pages": 2,
-   "license": "CC0-1.0",
-   "bytes": 3458,
-   "rating": 4.77,
-   "ratings": 6
   },
   {
    "id": "6079422",
@@ -34490,19 +33889,6 @@
    "pages": 5,
    "license": "CC0-1.0",
    "bytes": 17777,
-   "lyrics": true
-  },
-  {
-   "id": "5898215",
-   "title": "O salutaris hostia",
-   "composer": "Ludwig van Beethoven",
-   "file": "scores/Ludwig-van-Beethoven/O-salutaris-hostia--5898215.mxl",
-   "staves": 4,
-   "parts": 4,
-   "measures": 19,
-   "pages": 1,
-   "license": "CC0-1.0",
-   "bytes": 6173,
    "lyrics": true
   },
   {
@@ -36610,18 +35996,6 @@
    "pages": 5,
    "license": "CC0-1.0",
    "bytes": 37640
-  },
-  {
-   "id": "23869",
-   "title": "Testing the share option",
-   "composer": "Modest Mussorgsky",
-   "file": "scores/Modest-Mussorgsky/Testing-the-share-option--23869.mxl",
-   "staves": 2,
-   "parts": 1,
-   "measures": 24,
-   "pages": 2,
-   "license": "Public Domain",
-   "bytes": 10454
   },
   {
    "id": "5012818",
@@ -40679,19 +40053,6 @@
    "lyrics": true
   },
   {
-   "id": "5850253",
-   "title": "Ave Verum Corpus - Mozart (Soprano)",
-   "composer": "Wolfgang Amadeus Mozart",
-   "file": "scores/Wolfgang-Amadeus-Mozart/Ave-Verum-Corpus-Mozart-Soprano--5850253.mxl",
-   "staves": 6,
-   "parts": 5,
-   "measures": 46,
-   "pages": 4,
-   "license": "CC0-1.0",
-   "bytes": 15796,
-   "lyrics": true
-  },
-  {
    "id": "5844626",
    "title": "Ave Verum Corpus - Mozart TTBB",
    "composer": "Wolfgang Amadeus Mozart",
@@ -41695,20 +41056,6 @@
    "bytes": 4130,
    "rating": 4.49,
    "ratings": 5
-  },
-  {
-   "id": "4886475",
-   "title": "Mozart - Michael Turner's Waltz",
-   "composer": "Wolfgang Amadeus Mozart",
-   "file": "scores/Wolfgang-Amadeus-Mozart/Mozart-Michael-Turner-s-Waltz--4886475.mxl",
-   "staves": 3,
-   "parts": 3,
-   "measures": 18,
-   "pages": 1,
-   "license": "Public Domain",
-   "bytes": 4449,
-   "rating": 4.66,
-   "ratings": 3
   },
   {
    "id": "309121",
@@ -43100,18 +42447,6 @@
    "bytes": 6704
   },
   {
-   "id": "4835034",
-   "title": "The Fowler. JC.178",
-   "composer": "Wolfgang Amadeus Mozart",
-   "file": "scores/Wolfgang-Amadeus-Mozart/The-Fowler-JC-178--4835034.mxl",
-   "staves": 1,
-   "parts": 1,
-   "measures": 17,
-   "pages": 1,
-   "license": "Public Domain",
-   "bytes": 2914
-  },
-  {
    "id": "2590306",
    "title": "The Marriage of Figaro Overture",
    "composer": "Wolfgang Amadeus Mozart",
@@ -43514,18 +42849,6 @@
    "rating": 4.7,
    "ratings": 14,
    "lyrics": true
-  },
-  {
-   "id": "4893994",
-   "title": "Wolfgang Amadeus Mozart - Ballet",
-   "composer": "Wolfgang Amadeus Mozart",
-   "file": "scores/Wolfgang-Amadeus-Mozart/Wolfgang-Amadeus-Mozart-Ballet--4893994.mxl",
-   "staves": 2,
-   "parts": 2,
-   "measures": 16,
-   "pages": 1,
-   "license": "Public Domain",
-   "bytes": 4706
   },
   {
    "id": "5002362",
