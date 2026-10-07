@@ -1,9 +1,9 @@
 {
  "name": "LalaNote Open Music",
  "version": 1,
- "generated": "2026-10-06",
+ "generated": "2026-10-07",
  "source": "PDMX (https://zenodo.org/records/15571083), filtered, and a few scores from other free editions — see README.md",
- "count": 3334,
+ "count": 3339,
  "scores": [
   {
    "id": "4598366",
@@ -43944,6 +43944,81 @@
    "own": true,
    "origin": "LalaNote",
    "credit": "French nursery song, French words; written out for LalaNote",
+   "lyrics": true
+  },
+  {
+   "id": "ln-au-clair-de-la-lune",
+   "title": "Au clair de la lune — children's song",
+   "composer": "Traditional",
+   "file": "scores/Traditional/Au-clair-de-la-lune--ln-au-clair-de-la-lune.mxl",
+   "staves": 1,
+   "parts": 1,
+   "measures": 16,
+   "license": "CC0-1.0",
+   "bytes": 1796,
+   "own": true,
+   "origin": "LalaNote",
+   "credit": "French song of the 18th century, French words (first verse); written out for LalaNote",
+   "lyrics": true
+  },
+  {
+   "id": "ln-alle-meine-entchen",
+   "title": "Alle meine Entchen (All My Little Ducklings) — children's song",
+   "composer": "Traditional",
+   "file": "scores/Traditional/Alle-meine-Entchen--ln-alle-meine-entchen.mxl",
+   "staves": 1,
+   "parts": 1,
+   "measures": 10,
+   "license": "CC0-1.0",
+   "bytes": 1617,
+   "own": true,
+   "origin": "LalaNote",
+   "credit": "German nursery song, German words; written out for LalaNote",
+   "lyrics": true
+  },
+  {
+   "id": "ln-haenschen-klein",
+   "title": "Hänschen klein (Lightly Row) — children's song",
+   "composer": "Traditional",
+   "file": "scores/Traditional/Haenschen-klein--ln-haenschen-klein.mxl",
+   "staves": 1,
+   "parts": 1,
+   "measures": 16,
+   "license": "CC0-1.0",
+   "bytes": 1899,
+   "own": true,
+   "origin": "LalaNote",
+   "credit": "German folk tune; words by Franz Wiedemann, 1860 (first verse); written out for LalaNote",
+   "lyrics": true
+  },
+  {
+   "id": "ln-o-tannenbaum",
+   "title": "O Tannenbaum (O Christmas Tree) — carol",
+   "composer": "Traditional",
+   "file": "scores/Traditional/O-Tannenbaum--ln-o-tannenbaum.mxl",
+   "staves": 1,
+   "parts": 1,
+   "measures": 13,
+   "license": "CC0-1.0",
+   "bytes": 1855,
+   "own": true,
+   "origin": "LalaNote",
+   "credit": "German folk tune; words by Ernst Anschütz, 1824 (first verse); written out for LalaNote",
+   "lyrics": true
+  },
+  {
+   "id": "ln-stille-nacht",
+   "title": "Stille Nacht, heilige Nacht (Silent Night) — carol",
+   "composer": "Franz Xaver Gruber",
+   "file": "scores/Franz-Xaver-Gruber/Stille-Nacht-heilige-Nacht--ln-stille-nacht.mxl",
+   "staves": 1,
+   "parts": 1,
+   "measures": 23,
+   "license": "CC0-1.0",
+   "bytes": 1950,
+   "own": true,
+   "origin": "LalaNote",
+   "credit": "Melody by Franz Xaver Gruber, 1818; words by Joseph Mohr, 1816 (first verse, German); written out for LalaNote",
    "lyrics": true
   }
  ]
