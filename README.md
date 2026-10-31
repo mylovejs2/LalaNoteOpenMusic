@@ -1,6 +1,6 @@
 # LalaNote Open Music
 
-3,600 scores of classical music and well-known tunes, as MusicXML (`.mxl`) files. They are the score library of the
+3,610 scores of classical music and well-known tunes, as MusicXML (`.mxl`) files. They are the score library of the
 [LalaNote](https://github.com/mylovejs2/LalaNote) score editor, and anyone may use them.
 
 - `scores/<Composer>/<title>--<id>.mxl` — the scores
@@ -10,7 +10,7 @@
 
 ## Where the scores come from
 
-All but 339 of the files come from **PDMX**, a dataset of public-domain MusicXML scores collected from MuseScore.com:
+All but 349 of the files come from **PDMX**, a dataset of public-domain MusicXML scores collected from MuseScore.com:
 
 > Phillip Long, Zachary Novack, Taylor Berg-Kirkpatrick, Julian McAuley.
 > *PDMX: A Large-Scale Public Domain MusicXML Dataset for Symbolic Music Processing.* 2024.
@@ -21,11 +21,11 @@ in the catalogue are the figures recorded in PDMX; a score without them was not 
 
 ## Scores from other editions
 
-339 scores (`own: true` in the catalogue, ids beginning with `ln-`) were made for LalaNote. The music of all of them
+349 scores (`own: true` in the catalogue, ids beginning with `ln-`) were made for LalaNote. The music of all of them
 is in the public domain worldwide; the licence is that of the modern edition the file was made from, and each file
 carries it in its MusicXML `<rights>` element.
 
-313 of them, titled "— practice excerpt" and marked `excerpt: true`, are the built-in practice pieces of the Lala Keys
+323 of them, titled "— practice excerpt" and marked `excerpt: true`, are the built-in practice pieces of the Lala Keys
 piano app: a short piece whole (the teaching pieces of Beyer and Czerny, up to 32 bars), a longer one its opening
 section and close (12–24 bars), transcribed from the edition named below and checked bar by bar against it. Ties are
 shortened to the bar line, ornaments and grace notes left out, and a piece that moves in triplets throughout is written
@@ -49,8 +49,9 @@ that keeps the notes on the staff. LalaNote lists them after the whole scores.
 | Beyer, *Vorschule im Klavierspiel*, Op. 101 — Nos. 1–106, practice versions (the pupil's part where Beyer prints a teacher's part) | Transcribed from Edition Peters, ed. Adolf Ruthardt [1895] (IMSLP #12916). **Public Domain**. <https://imslp.org/wiki/Special:ImagefromIndex/12916> |
 | Schumann, Träumerei · Brahms, Wiegenlied (arr. Robert Keller) · Bach, Air BWV 1068 (arr. Siloti) · Grieg, Morgenstimmung (the composer's piano version) · Tchaikovsky, *Swan Lake* Act II Scène (piano reduction by Kashkin) · Mozart, Rondo alla Turca · Chopin, Preludes Op. 28 Nos. 15 and 20 · Schubert, Ständchen (Liszt S. 560/7) · Debussy, Première Arabesque · Mendelssohn, Frühlingslied Op. 62 No. 6 · Dvořák, Humoresque Op. 101 No. 7 (ed. Godowsky) · Bądarzewska, La prière d'une vierge · Beethoven (attributed), Sonatina in G, Anh. 5 No. 1 · Kuhlau, Sonatina Op. 55 No. 1 — practice excerpts | Transcribed from public-domain editions, each named in its file's credit: IMSLP #289791, #10047, #09510, #88818, #1054921, #821296, #100461, #254504, #994954, #11082, #32596, #994931, #882995, and the Mutopia Project editions 471 and 472. **Public Domain**. |
 | Chopin, Waltz in A minor, B. 150 — practice excerpt | Transcribed from the edition typeset by Rain Zhang, 2025 (IMSLP #968535). **CC0 1.0**. |
-| Schumann, *Kinderszenen* No. 1 "Von fremden Ländern und Menschen" · Beethoven, Minuet in G (Sonata Op. 49 No. 2, II) · Chopin, Prelude Op. 28 No. 4 and Études Op. 10 Nos. 5 and 12 · Grieg, In the Hall of the Mountain King (the composer's piano version) · Mozart, Fantasia in D minor, K. 397 · Schubert, Impromptus Op. 90 Nos. 2 and 4, and Die Forelle (the voice and the bass of the song) — practice excerpts | Transcribed from the Mutopia Project editions 354, 777, 468, 926, 743, 1888, 2034, 1551, 1552 and 502, each named in its file's credit. **Public Domain**. <https://www.mutopiaproject.org/> |
+| Schumann, *Kinderszenen* No. 1 "Von fremden Ländern und Menschen" · Beethoven, Minuet in G (Sonata Op. 49 No. 2, II) · Chopin, Prelude Op. 28 No. 4 and Études Op. 10 Nos. 5 and 12 · Grieg, In the Hall of the Mountain King (the composer's piano version) · Mozart, Fantasia in D minor, K. 397 · Schubert, Impromptus Op. 90 Nos. 2 and 4, and Die Forelle (the voice and the bass of the song) · Gounod, Ave Maria (the violin's melody and the bass of the piano) — practice excerpts | Transcribed from the Mutopia Project editions 354, 777, 468, 926, 743, 1888, 2034, 1551, 1552, 502 and 2167, each named in its file's credit. **Public Domain**. <https://www.mutopiaproject.org/> |
 | Chopin, Polonaise Op. 53 · Beethoven, Sonata Op. 31 No. 2, III · Liszt, La Campanella S. 141 No. 3 · Tchaikovsky, Danse de la Fée-Dragée and Valse des fleurs (the composer's piano arrangement of the Nutcracker suite) · Saint-Saëns, Le Cygne (piano transcription by Alexander Siloti) · Verdi, "La donna è mobile" (the voice and the bass) · Johann Strauss II, An der schönen blauen Donau (the composer's piano version) · Boccherini, Minuet (piano arrangement by Albert E. Wier) · Elgar, Salut d'Amour (the composer's piano version) — practice excerpts | Transcribed from public-domain editions on IMSLP, each named in its file's credit: #42524, #419638, #29890, #57454, #10939, #88973, #311227, #796689, #167967. **Public Domain**. |
+| Beethoven, Minuet in G, WoO 10 No. 2 · Mozart, *Eine kleine Nachtmusik*, K. 525, I (arr. Otto Singer) · Offenbach, Barcarolle from *Les contes d'Hoffmann* (arr. Auguste Bazille) · Wagner, Bridal Chorus from *Lohengrin* (arr. Gustav Lazarus) · The Londonderry Air (Petrie Collection, 1855) · Cottrau, Santa Lucia · Elgar, Land of Hope and Glory (the song, 1902) · Holst, *The Planets*: Jupiter, the big tune (the first violins and the double basses) · Schubert, Ave Maria, D. 839 — practice excerpts, the melody and the bass | Transcribed from public-domain editions on IMSLP, each named in its file's credit: #993206, #61339, #02610, #286240, #395124, #318686, #556094, #15436, #62384. **Public Domain**. |
 | Burgmüller, 18 Études Op. 109 — Nos. 1, 2, 8, 13 and 15, practice excerpts | Collection Litolff No. 2364, ed. Clemens Schultze [1905] (IMSLP #283546). **Public Domain**. |
 | Mozart, Piano Sonata in C, K. 545, first movement — practice excerpt | Transcribed from Craig Stuart Sapp's re-engraving of the Breitkopf & Härtel Mozart edition, 1878 (IMSLP #1020082). **CC BY 4.0** — <https://creativecommons.org/licenses/by/4.0/>. Changes: transcribed to MusicXML and shortened for practice. |
 
@@ -79,7 +80,7 @@ more beats than its time signature allows.
 ## Licence
 
 Each PDMX score carries the mark its uploader gave it, recorded in `catalog.json` as `CC0-1.0` or `Public Domain`.
-The 339 other scores are `CC0-1.0`, `Public Domain` or — the two Pachelbel files, the eight Clementi movements, twelve of
+The 349 other scores are `CC0-1.0`, `Public Domain` or — the two Pachelbel files, the eight Clementi movements, twelve of
 the Burgmüller études and the K. 545 movement — `CC-BY-4.0`, which asks that the typesetter be named when the file is
 passed on (see the table above).
 `catalog.json` and this text are released under CC0 1.0. See [LICENSE.md](LICENSE.md).
