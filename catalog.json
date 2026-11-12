@@ -1,7 +1,7 @@
 {
  "name": "LalaNote Open Music",
  "version": 1,
- "generated": "2026-10-31",
+ "generated": "2026-11-12",
  "source": "PDMX (https://zenodo.org/records/15571083), filtered, and a few scores from other free editions — see README.md",
  "count": 3610,
  "scores": [
@@ -44598,7 +44598,7 @@
    "parts": 1,
    "measures": 13,
    "license": "Public Domain",
-   "bytes": 3069,
+   "bytes": 3065,
    "own": true,
    "origin": "Mutopia",
    "credit": "Mutopia Project (472), typeset by Magnus Lewis-Smith after Edition Peters; shortened for practice in Lala Keys",
@@ -44913,7 +44913,7 @@
    "parts": 1,
    "measures": 12,
    "license": "Public Domain",
-   "bytes": 2764,
+   "bytes": 2717,
    "own": true,
    "origin": "IMSLP",
    "credit": "piano transcription by Alexander Siloti, Carl Fischer 1924 (IMSLP 10939); shortened for practice in Lala Keys",
